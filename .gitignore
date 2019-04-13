@@ -1,0 +1,8 @@
+#download directory and files
+download/
+
+#data directory and data files
+data/
+
+#answer file
+homework/*_example_of*.ipynb
