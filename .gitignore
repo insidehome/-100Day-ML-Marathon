@@ -6,3 +6,7 @@ data/
 
 #answer file
 homework/*_example_of*.ipynb
+
+#a directory of homework
+homework/.ipynb_checkpoints/
+
